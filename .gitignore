@@ -1,0 +1,8 @@
+#Exlcuir modulos de node
+node_modules/
+
+#Excluir Dist
+dist/
+
+#Excluir Db
+src/domain/database/*
